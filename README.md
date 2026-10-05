@@ -5,6 +5,6 @@
 
   # yutaro-enomoto's Website
 
-  Visit **[yutaro-enomoto.github.io/gwave-isas](https://yutaro-enomoto.github.io/gwave-isas)** 🚀
+  Visit **[gwave.isas.jaxa.jp](http://gwave.isas.jaxa.jp)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
