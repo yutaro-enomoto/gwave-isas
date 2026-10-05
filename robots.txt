@@ -1,1 +1,1 @@
-Sitemap: https://yutaro-enomoto.github.io/gwave-isas/sitemap.xml
+Sitemap: http://gwave.isas.jaxa.jp/sitemap.xml
