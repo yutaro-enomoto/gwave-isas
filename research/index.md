@@ -5,10 +5,9 @@ nav:
   tooltip: Research
 ---
 
-# {% include icon.html icon="fa-solid fa-wrench" %}Projects
+# {% include icon.html icon="fa-solid fa-wrench" %}Research --- 研究内容
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+宇宙重力波望遠鏡にむけた研究開発や、そこから派生した精密計測の研究を行っています。
 
 {% include tags.html tags="publication, resource, website" %}
 
@@ -16,12 +15,10 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {% include section.html %}
 
-## Featured
+## Theme
 
 {% include list.html component="card" data="projects" filter="group == 'featured'" %}
 
 {% include section.html %}
 
-## More
 
-{% include list.html component="card" data="projects" filter="!group" style="small" %}
