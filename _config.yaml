@@ -8,12 +8,12 @@ proofer: false
 
 # site social media and other links
 links:
-  email: contact@yutaro-enomoto.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: yutaro-enomoto
-  twitter: yutaro-enomoto
-  youtube: yutaro-enomoto
+  #email: contact@yutaro-enomoto.com
+  #orcid: 0000-0001-8713-9213
+  #google-scholar: ETJoidYAAAAJ
+  #github: yutaro-enomoto
+  #twitter: yutaro-enomoto
+  #youtube: yutaro-enomoto
 
 ### jekyll settings
 
