@@ -10,6 +10,10 @@ on:
   # run manually by user
   workflow_dispatch:
 
+concurrency:
+  group: on-push-${{ github.ref }}
+  cancel-in-progress: true
+
 permissions:
   actions: read
   contents: write
