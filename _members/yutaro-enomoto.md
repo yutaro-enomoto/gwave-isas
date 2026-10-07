@@ -6,6 +6,7 @@ description: Assistant Professor 助教
 aliases:
   - Y. Enomoto
   - Y Enomoto
+  - Yutaro Enomoto
 links:
   orcid: 0000-0001-6426-7079
 ---
