@@ -23,7 +23,7 @@ nav:
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-## Group Photos 集合写真
+## Group Photos -- 集合写真
 
 {% include section.html %}
 
