@@ -3,7 +3,7 @@
   ![on-pull-request](../../actions/workflows/on-pull-request.yaml/badge.svg)
   ![on-schedule](../../actions/workflows/on-schedule.yaml/badge.svg)
 
-  # yutaro-enomoto's Website
+  # GWave's Website
 
   Visit **[yutaro-enomoto.github.io/gwave-isas](https://yutaro-enomoto.github.io/gwave-isas)** 🚀
 
