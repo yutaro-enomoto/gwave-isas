@@ -15,7 +15,7 @@
 
 {%
   include button.html
-  link="projects"
+  link="research"
   text="Researches --- 研究内容"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -27,7 +27,7 @@
 {%
   include feature.html
   image="images/photo.jpg"
-  link="projects"
+  link="research"
   title="Researches --- 研究内容"
   flip=true
   style="bare"
