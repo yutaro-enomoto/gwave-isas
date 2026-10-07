@@ -15,7 +15,7 @@ nav:
 
 {% include section.html %}
 
-## Theme
+## Theme --- テーマ
 
 {% include list.html component="card" data="projects" filter="group == 'featured'" %}
 
