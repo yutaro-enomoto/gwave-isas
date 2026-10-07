@@ -11,26 +11,24 @@ nav:
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filter="role == 'faculty-staff'" %}
-{% include list.html data="members" component="portrait" filter="role == 'posdoc'" %}
-{% include list.html data="members" component="portrait" filter="role == 'phd'" %}
-{% include list.html data="members" component="portrait" filter="role == 'master'" %}
-{% include list.html data="members" component="portrait" filter="role == 'undergrad'" %}
+{% include list.html data="members" component="portrait" filter="role == 'faculty-staff' and group != alum" %}
+{% include list.html data="members" component="portrait" filter="role == 'posdoc' and group != alum" %}
+{% include list.html data="members" component="portrait" filter="role == 'phd' and group != alum" %}
+{% include list.html data="members" component="portrait" filter="role == 'master' and group != alum" %}
+{% include list.html data="members" component="portrait" filter="role == 'undergrad' and group != alum" %}
 
 ## Alumni -- 旧メンバー
 
+{% include list.html data="members" component="portrait" filter="group == alum" %}
+
 {% include section.html background="images/background.jpg" dark=true %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+## Group Photos 集合写真
 
 {% include section.html %}
 
 {% capture content %}
 
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
 {% include figure.html image="images/photo.jpg" %}
 
 {% endcapture %}
