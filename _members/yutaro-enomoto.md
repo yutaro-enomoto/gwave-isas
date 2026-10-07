@@ -9,6 +9,7 @@ aliases:
   - Yutaro Enomoto
 links:
   orcid: 0000-0001-6426-7079
+  researchmap: https://cv01.ufinity.jp/isas/cvclients/researchers/yenomoto_physics?frame_id=260
 ---
 
 こんにちは。
