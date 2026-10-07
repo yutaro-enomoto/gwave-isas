@@ -9,7 +9,7 @@ nav:
 
 宇宙重力波望遠鏡にむけた研究開発や、そこから派生した精密計測の研究を行っています。
 
-{% include tags.html tags="publication, resource, website" %}
+{% include tags.html tags="space-interferometry, thermal-noise, gravitational-waves, quantum" %}
 
 {% include search-info.html %}
 
