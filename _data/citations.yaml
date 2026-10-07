@@ -43,10 +43,11 @@
   publisher: Physical Review D
   date: '2026-08-11'
   link: https://doi.org/hcmqsn
-  orcid: 0000-0001-6426-7079
+  orcid: 0000-0002-0851-8205
   yutaro-enomoto: true
   plugin: orcid.py
   file: orcid.yaml
+  shoki-iwaguchi: true
 - id: doi:10.1364/AO.580911
   title: Quantum noise from vacuum field injection in optical cavities with diffraction-related
     loss
@@ -9226,3 +9227,193 @@
   yutaro-enomoto: true
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1103/yg4l-cj1t
+  title: Proof-of-principle experiment on a displacement-noise-free neutron interferometer
+    for gravitational wave detection
+  authors:
+  - Shoki Iwaguchi
+  - Takuhiro Fujiie
+  - Taro Nambu
+  - Masaaki Kitaguchi
+  - Yutaka Yamagata
+  - Kenji Mishima
+  - Atsushi Nishizawa
+  - Tomohiro Ishikawa
+  - Kenji Tsuji
+  - Kurumi Umemura
+  - Kazuhiro Kobayashi
+  - Takafumi Onishi
+  - Keiko Kokeyama
+  - Hirohiko Shimizu
+  - Yuta Michimura
+  - Seiji Kawamura
+  publisher: Physical Review D
+  date: '2025-11-06'
+  link: https://doi.org/hcmrd6
+  orcid: 0000-0002-0851-8205
+  shoki-iwaguchi: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.physleta.2022.128581
+  title: Displacement-noise-free interferometeric gravitational-wave detector using
+    unidirectional neutrons with four speeds
+  authors:
+  - Shoki Iwaguchi
+  - Atsushi Nishizawa
+  - Yanbei Chen
+  - Yuki Kawasaki
+  - Tomohiro Ishikawa
+  - Masaaki Kitaguchi
+  - Yutaka Yamagata
+  - Bin Wu
+  - Ryuma Shimizu
+  - Kurumi Umemura
+  - Kenji Tsuji
+  - Hirohiko Shimizu
+  - Yuta Michimura
+  - Seiji Kawamura
+  publisher: Physics Letters A
+  date: '2023-01-01'
+  link: https://doi.org/hcmrd7
+  orcid: 0000-0002-0851-8205
+  shoki-iwaguchi: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.physleta.2022.128150
+  title: Displacement-noise-free neutron interferometer for gravitational wave detection
+    using a single Mach-Zehnder configuration
+  authors:
+  - Shoki Iwaguchi
+  - Atsushi Nishizawa
+  - Yanbei Chen
+  - Yuki Kawasaki
+  - Masaaki Kitaguchi
+  - Taigen Morimoto
+  - Tomohiro Ishikawa
+  - Bin Wu
+  - Izumi Watanabe
+  - Ryuma Shimizu
+  - Hirohiko Shimizu
+  - Yuta Michimura
+  - Seiji Kawamura
+  publisher: Physics Letters A
+  date: '2022-07-01'
+  link: https://doi.org/hcmrd8
+  orcid: 0000-0002-0851-8205
+  shoki-iwaguchi: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1103/PhysRevD.105.124017
+  title: Neutron displacement noise-free interferometer for gravitational-wave detection
+  authors:
+  - Atsushi Nishizawa
+  - Shoki Iwaguchi
+  - Yanbei Chen
+  - Taigen Morimoto
+  - Tomohiro Ishikawa
+  - Bin Wu
+  - Izumi Watanabe
+  - Yuki Kawasaki
+  - Ryuma Shimizu
+  - Hirohiko Shimizu
+  - Masaaki Kitaguchi
+  - Yuta Michimura
+  - Seiji Kawamura
+  publisher: Physical Review D
+  date: '2022-06-08'
+  link: https://doi.org/hcmrd9
+  orcid: 0000-0002-0851-8205
+  shoki-iwaguchi: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.2139/ssrn.4068387
+  title: Can the Phase of Radiation Pressure Fluctuations Be Flipped in a Single Path
+    for Laser Interferometric Gravitational Wave Detectors?
+  authors:
+  - Tomohiro Ishikawa
+  - Shoki Iwaguchi
+  - Bin Wu
+  - Izumi Watanabe
+  - Yuki Kawasaki
+  - Ryuma Shimizu
+  - Yutaro Enomoto
+  - Yuta Michimura
+  - Akira Furusawa
+  - Seiji Kawamura
+  publisher: Elsevier BV
+  date: '2022-01-01'
+  link: https://doi.org/hcmrfb
+  orcid: 0000-0002-0851-8205
+  shoki-iwaguchi: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.2139/ssrn.4068388
+  title: Can the Phase of Radiation Pressure Fluctuations Be Flipped in a Single Path
+    for Laser Interferometric Gravitational Wave Detectors?
+  authors:
+  - Tomohiro Ishikawa
+  - Shoki Iwaguchi
+  - Bin Wu
+  - Izumi Watanabe
+  - Yuki Kawasaki
+  - Ryuma Shimizu
+  - Yutaro Enomoto
+  - Yuta Michimura
+  - Akira Furusawa
+  - Seiji Kawamura
+  publisher: Elsevier BV
+  date: '2022-01-01'
+  link: https://doi.org/hcmrfc
+  orcid: 0000-0002-0851-8205
+  shoki-iwaguchi: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.2139/ssrn.4266891
+  title: Displacement-Noise-Free Interferometeric Gravitational-Wave Detector Using
+    Unidirectional Neutrons with Four Speeds
+  authors:
+  - Shoki Iwaguchi
+  - Atsushi Nishizawa
+  - Yanbei Chen
+  - Yuki Kawasaki
+  - Tomohiro Ishikawa
+  - Masaaki Kitaguchi
+  - Yutaka Yamagata
+  - Bin Wu
+  - Ryuma Shimizu
+  - Kurumi Umemura
+  - Kenji Tsuji
+  - Hirohiko Shimizu
+  - Yuta Michimura
+  - Seiji Kawamura
+  publisher: Elsevier BV
+  date: '2022-01-01'
+  link: https://doi.org/hcmrfd
+  orcid: 0000-0002-0851-8205
+  shoki-iwaguchi: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.2139/ssrn.4040628
+  title: Displacement-Noise-Free Neutron Interferometer for Gravitational Wave Detection
+    Using a Single Mach-Zehnder Configuration
+  authors:
+  - Shoki Iwaguchi
+  - Atsushi Nishizawa
+  - Yanbei Chen
+  - Yuki Kawasaki
+  - Masaaki Kitaguchi
+  - Taigen Morimoto
+  - Tomohiro Ishikawa
+  - Bin Wu
+  - Izumi Watanabe
+  - Ryuma Shimizu
+  - Hirohiko Shimizu
+  - Yuta Michimura
+  - Seiji Kawamura
+  publisher: Elsevier BV
+  date: '2022-01-01'
+  link: https://doi.org/hcmrff
+  orcid: 0000-0002-0851-8205
+  shoki-iwaguchi: true
+  plugin: orcid.py
+  file: orcid.yaml
