@@ -5,7 +5,7 @@ nav:
   tooltip: Research
 ---
 
-# {% include icon.html icon="fa-solid fa-wrench" %}Research --- 研究内容
+# {% include icon.html icon="fa-solid fa-wrench" %}Research
 
 宇宙重力波望遠鏡にむけた研究開発や、そこから派生した精密計測の研究を行っています。
 
