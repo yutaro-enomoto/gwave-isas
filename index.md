@@ -16,7 +16,7 @@
 {%
   include button.html
   link="research"
-  text="Researches -- 研究内容"
+  text="Research -- 研究内容"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
