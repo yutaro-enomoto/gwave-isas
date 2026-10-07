@@ -20,6 +20,7 @@
   date: '2026-09-28'
   link: https://doi.org/hcmqsm
   orcid: 0000-0001-6426-7079
+  yutaro-enomoto: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1103/492m-xztx
@@ -43,6 +44,7 @@
   date: '2026-08-11'
   link: https://doi.org/hcmqsn
   orcid: 0000-0001-6426-7079
+  yutaro-enomoto: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1364/AO.580911
@@ -62,6 +64,7 @@
   date: '2026-04-17'
   link: https://doi.org/hcmqsp
   orcid: 0000-0001-6426-7079
+  yutaro-enomoto: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1088/1361-6382/ad7cb6
@@ -86,6 +89,7 @@
   date: '2024-10-10'
   link: https://doi.org/hcmqsq
   orcid: 0000-0001-6426-7079
+  yutaro-enomoto: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1103/PhysRevA.110.022601
@@ -100,6 +104,7 @@
   date: '2024-08-01'
   link: https://doi.org/hcmqsr
   orcid: 0000-0001-6426-7079
+  yutaro-enomoto: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1364/OE.498691
@@ -117,6 +122,7 @@
   date: '2024-05-13'
   link: https://doi.org/hcmqss
   orcid: 0000-0001-6426-7079
+  yutaro-enomoto: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.21203/rs.3.rs-3844852/v1
@@ -131,6 +137,7 @@
   date: '2024-02-07'
   link: https://doi.org/hcmqst
   orcid: 0000-0001-6426-7079
+  yutaro-enomoto: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3390/galaxies11060111
@@ -155,6 +162,7 @@
   date: '2023-11-09'
   link: https://doi.org/hcmqsv
   orcid: 0000-0001-6426-7079
+  yutaro-enomoto: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1103/PhysRevLett.131.040601
@@ -169,6 +177,7 @@
   date: '2023-07-25'
   link: https://doi.org/hcmqsw
   orcid: 0000-0001-6426-7079
+  yutaro-enomoto: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1364/OE.476025
@@ -184,6 +193,7 @@
   date: '2023-01-09'
   link: https://doi.org/hcmqsx
   orcid: 0000-0001-6426-7079
+  yutaro-enomoto: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1364/AO.455485
@@ -198,6 +208,7 @@
   date: '2022-04-27'
   link: https://doi.org/g644xw
   orcid: 0000-0001-6426-7079
+  yutaro-enomoto: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1364/JOSAA.455127
@@ -215,6 +226,7 @@
   date: '2022-04-27'
   link: https://doi.org/hcmqsz
   orcid: 0000-0001-6426-7079
+  yutaro-enomoto: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1126/sciadv.abj6624
@@ -230,6 +242,7 @@
   date: '2021-11-12'
   link: https://doi.org/gnx9cz
   orcid: 0000-0001-6426-7079
+  yutaro-enomoto: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1103/PhysRevA.104.L031501
@@ -246,6 +259,7 @@
   date: '2021-09-02'
   link: https://doi.org/hcmqs2
   orcid: 0000-0001-6426-7079
+  yutaro-enomoto: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3847/2041-8213/ac082e
@@ -1855,6 +1869,7 @@
   date: '2021-06-29'
   link: https://doi.org/gkzfnv
   orcid: 0000-0001-6426-7079
+  yutaro-enomoto: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1103/physrevlett.126.241102
@@ -3448,6 +3463,7 @@
   date: '2021-06-16'
   link: https://doi.org/gkrbpg
   orcid: 0000-0001-6426-7079
+  yutaro-enomoto: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3847/2041-8213/abffcd
@@ -5048,6 +5064,7 @@
   date: '2021-05-31'
   link: https://doi.org/gk85t8
   orcid: 0000-0001-6426-7079
+  yutaro-enomoto: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.physleta.2021.127365
@@ -5072,6 +5089,7 @@
   date: '2021-06-01'
   link: https://doi.org/hcmqs3
   orcid: 0000-0001-6426-7079
+  yutaro-enomoto: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1093/ptep/ptab018
@@ -5325,6 +5343,7 @@
   date: '2021-02-22'
   link: https://doi.org/hb6tsg
   orcid: 0000-0001-6426-7079
+  yutaro-enomoto: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1093/ptep/ptaa125
@@ -5534,6 +5553,7 @@
   date: '2020-08-17'
   link: https://doi.org/g5nhjc
   orcid: 0000-0001-6426-7079
+  yutaro-enomoto: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1093/ptep/ptaa120
@@ -5789,6 +5809,7 @@
   date: '2020-08-12'
   link: https://doi.org/hcmqs4
   orcid: 0000-0001-6426-7079
+  yutaro-enomoto: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1088/1361-6382/abe9f3
@@ -5833,6 +5854,7 @@
   date: '2021-03-19'
   link: https://doi.org/hcmqs5
   orcid: 0000-0001-6426-7079
+  yutaro-enomoto: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1088/1742-6596/1857/1/012002
@@ -6043,6 +6065,7 @@
   date: '2021-04-01'
   link: https://doi.org/hcmqs6
   orcid: 0000-0001-6426-7079
+  yutaro-enomoto: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1088/1361-6382/abd922
@@ -6297,12 +6320,14 @@
   date: '2021-03-05'
   link: https://doi.org/gq8wpd
   orcid: 0000-0001-6426-7079
+  yutaro-enomoto: true
   plugin: orcid.py
   file: orcid.yaml
 - title: Demonstration of a loop-based single-mode versatile photonic quantum processor
   publisher: arXiv preprint arXiv:2105.02447
   date: '2021-07-01'
   orcid: 0000-0001-6426-7079
+  yutaro-enomoto: true
   plugin: orcid.py
   file: orcid.yaml
 - title: Improving force sensitivity by amplitude measurement of light reflected from
@@ -6310,6 +6335,7 @@
   publisher: arXiv preprint arXiv:2105.10510
   date: '2021-07-01'
   orcid: 0000-0001-6426-7079
+  yutaro-enomoto: true
   plugin: orcid.py
   file: orcid.yaml
 - title: Search for intermediate mass black hole binaries in the third observing run
@@ -6317,6 +6343,7 @@
   publisher: arXiv preprint arXiv:2105.15120
   date: '2021-07-01'
   orcid: 0000-0001-6426-7079
+  yutaro-enomoto: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1007/s41114-020-00026-9
@@ -7647,6 +7674,7 @@
   date: '2020-09-28'
   link: https://doi.org/ghdrk6
   orcid: 0000-0001-6426-7079
+  yutaro-enomoto: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1103/PhysRevD.102.022008
@@ -7678,6 +7706,7 @@
   date: '2020-07-24'
   link: https://doi.org/hcmqs7
   orcid: 0000-0001-6426-7079
+  yutaro-enomoto: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1093/ptep/ptaa056
@@ -7938,6 +7967,7 @@
   date: '2020-05-01'
   link: https://doi.org/hcmqs8
   orcid: 0000-0001-6426-7079
+  yutaro-enomoto: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1088/1361-6382/ab5c95
@@ -8154,6 +8184,7 @@
   date: '2020-01-13'
   link: https://doi.org/hcmqs9
   orcid: 0000-0001-6426-7079
+  yutaro-enomoto: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1103/PhysRevA.101.011802
@@ -8172,6 +8203,7 @@
   date: '2020-01-17'
   link: https://doi.org/g836dv
   orcid: 0000-0001-6426-7079
+  yutaro-enomoto: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1088/1361-6382/ab4489
@@ -8197,6 +8229,7 @@
   date: '2019-09-27'
   link: https://doi.org/hcmqtb
   orcid: 0000-0001-6426-7079
+  yutaro-enomoto: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1088/1361-6382/ab28a9
@@ -8410,6 +8443,7 @@
   date: '2019-07-23'
   link: https://doi.org/hcmqtc
   orcid: 0000-0001-6426-7079
+  yutaro-enomoto: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1088/1361-6382/ab0fcb
@@ -8594,6 +8628,7 @@
   date: '2019-04-12'
   link: https://doi.org/hcmqtd
   orcid: 0000-0001-6426-7079
+  yutaro-enomoto: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/s41550-018-0658-y
@@ -8801,6 +8836,7 @@
   date: '2019-01-08'
   link: https://doi.org/gn4sbb
   orcid: 0000-0001-6426-7079
+  yutaro-enomoto: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1103/physrevd.97.122003
@@ -8820,6 +8856,7 @@
   date: '2018-06-12'
   link: https://doi.org/gk2g8c
   orcid: 0000-0001-6426-7079
+  yutaro-enomoto: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1103/physrevd.97.102001
@@ -8837,6 +8874,7 @@
   date: '2018-05-03'
   link: https://doi.org/gkmmwv
   orcid: 0000-0001-6426-7079
+  yutaro-enomoto: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1093/ptep/ptx180
@@ -9073,6 +9111,7 @@
   date: '2018-01-01'
   link: https://doi.org/gdq9b2
   orcid: 0000-0001-6426-7079
+  yutaro-enomoto: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1088/1361-6382/aa90e3
@@ -9122,6 +9161,7 @@
   date: '2017-10-25'
   link: https://doi.org/hcmqtf
   orcid: 0000-0001-6426-7079
+  yutaro-enomoto: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.physleta.2016.09.056
@@ -9137,6 +9177,7 @@
   date: '2016-12-01'
   link: https://doi.org/f9bh8s
   orcid: 0000-0001-6426-7079
+  yutaro-enomoto: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1088/0264-9381/33/14/145002
@@ -9152,6 +9193,7 @@
   date: '2016-06-20'
   link: https://doi.org/hcmqtg
   orcid: 0000-0001-6426-7079
+  yutaro-enomoto: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1103/physreva.94.012115
@@ -9165,6 +9207,7 @@
   date: '2016-07-20'
   link: https://doi.org/hcmqth
   orcid: 0000-0001-6426-7079
+  yutaro-enomoto: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.physleta.2016.01.007
@@ -9180,5 +9223,6 @@
   date: '2016-03-01'
   link: https://doi.org/f8bdch
   orcid: 0000-0001-6426-7079
+  yutaro-enomoto: true
   plugin: sources.py
   file: sources.yaml
