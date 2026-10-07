@@ -1,7 +1,7 @@
 ---
 name: Yutaro Enomoto
 image: images/photo.jpg
-role: principal-investigator
+role: faculty-staff
 description: Assistant Professor 助教
 aliases:
   - Y. Enomoto
