@@ -16,7 +16,7 @@
 {%
   include button.html
   link="research"
-  text="Research -- 研究内容"
+  text="Research"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -39,7 +39,7 @@
 {%
   include button.html
   link="team"
-  text="Member -- メンバー"
+  text="Members"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -51,6 +51,6 @@
   include feature.html
   image="images/photo.jpg"
   link="team"
-  title="Member -- メンバー"
+  title="Members -- メンバー"
   text=text
 %}
