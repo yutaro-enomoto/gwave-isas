@@ -1,13 +1,12 @@
 ---
 ---
 
-# yutaro-enomoto's Website
 
-An engaging 1-3 sentence description of your lab.
+
+## Welcome to ISAS GWave Group! -- 宇宙研重力波グループへようこそ
+重力の謎に、光・量子・熱の物理で挑みます。
 
 {% include section.html %}
-
-## Highlights
 
 {% capture text %}
 
