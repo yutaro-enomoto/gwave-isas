@@ -60,7 +60,7 @@
 {% capture col1 %}
 ## {% include icon.html icon="fa-solid fa-newspaper" %}Latest NEWS
 
-  {% assign sorted_news = site.data.posts | sort: "last_modified_at" | reverse %}
+  {% assign sorted_news = site.posts | sort: "last_modified_at" | reverse %}
     {% for post in sorted_news limit:3 %}
     
   <div class="news-card">
