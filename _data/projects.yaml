@@ -1,47 +1,58 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: Back-Linked Interferometer
+  subtitle: バックリンク干渉計
   group: featured
   image: images/photo.jpg
-  link: https://github.com/
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
   tags:
-    - resource
+    - space-interferometry
+    - fabry-perot
+    - beat-note
+    - gravitational-wave
 
-- title: Cool Package
-  subtitle: a subtitle
+- title: Inertial Reference Sensor
+  subtitle: 慣性基準センサー
   group: featured
   image: images/photo.jpg
-  link: https://github.com/
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
   tags:
-    - resource
+    - test-mass
+    - electostatic-sensor
+    - thermal-noise
 
-- title: Cool Tutorial
-  subtitle: a subtitle
+- title: Thermal-Noise Free Suspension
+  subtitle: 熱雑音
+  group: featured
   image: images/photo.jpg
-  link: https://github.com/
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
   tags:
-    - resource
-    - publication
+    - test-mass
+    - thermal-noise
 
-- title: Cool Web App
-  subtitle: a subtitle
+- title: Advanced Optical System
+  subtitle: 先進的な光学系
+  group: featured
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  description: REやretro-reflectionを切り出すイメージ。Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   tags:
-    - software
+    - space-interferometry
+    - thermal-noise
+    
+- title: Quantum Optics for Space
+  subtitle: 量子光学
+  group: featured
+  image: images/photo.jpg
+  description: 量子光学Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  tags:
+    - space-interferometry
+    - quantum
 
-- title: Cool Web Server
-  subtitle: a subtitle
+- title: SILVIA
+  subtitle: SILVIA
+  group: featured
   image: images/photo.jpg
-  link: https://github.com/
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
   tags:
-    - software
+    - space-interferometry
+    - formation-flying
+
+
