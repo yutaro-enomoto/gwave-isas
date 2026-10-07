@@ -3,42 +3,20 @@
 
 
 
-## Welcome to ISAS GWave Group! -- 宇宙研重力波グループへようこそ
+## Welcome to ISAS GWave Group! --- 宇宙研重力波グループへようこそ
 重力の謎に、光・量子・熱の物理で挑みます。
 
 {% include section.html %}
 
-{% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include button.html
-  link="research"
-  text="See our publications"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="research"
-  title="Our Research"
-  text=text
-%}
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+研究内容について一言
 
 {%
   include button.html
   link="projects"
-  text="Browse our projects"
+  text="Browse our researches 研究内容"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -50,7 +28,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   include feature.html
   image="images/photo.jpg"
   link="projects"
-  title="Our Projects"
+  title="Our Researches 研究内容"
   flip=true
   style="bare"
   text=text
@@ -58,12 +36,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
 {%
   include button.html
   link="team"
-  text="Meet our team"
+  text="Meet our team メンバー"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -75,6 +51,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   include feature.html
   image="images/photo.jpg"
   link="team"
-  title="Our Team"
+  title="Our Team　メンバー"
   text=text
 %}
