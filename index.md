@@ -60,19 +60,16 @@
 {% capture col1 %}
 ## {% include icon.html icon="fa-solid fa-newspaper" %}Latest NEWS
 
-  {% assign sorted_news = site.data.news | sort: "date" | reverse %}
+  {% assign sorted_news = site.data.posts | sort: "last_modified_at" | reverse %}
     {% for post in sorted_news limit:3 %}
     
   <div class="news-card">
     <div class="news-header">
         <span class="news-title">{{ post.title }}</span>
-        <span class="news-date">{% include icon.html icon="fa-regular fa-calendar" %} {{ post.date | date: "%B %d, %Y" }} </span>
+        <span class="news-date">{% include icon.html icon="fa-regular fa-calendar" %} {{ post.last_modified_at | date: "%Y-%B-%d" }} </span>
     </div>
     <div class="news-description">
         {{ post.description }} 
-            {% if post.url %}
-            <a href="{{ post.url }}" target="_blank">More...</a>
-            {% endif %}
     </div>
   </div>
 
