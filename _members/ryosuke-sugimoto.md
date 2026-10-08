@@ -1,8 +1,8 @@
 ---
 name: Ryosuke Sugimoto
-name_jp: 杉本 良介
+name_j: 杉本 良介
 image: images/photo.jpg
 role: phd
 group: alum
-move: Postdoctoral Fellow in Ando Lab. (2024)
+move: Promoted to a postdoctoral fellow in Ando Lab. (2024)
 ---
