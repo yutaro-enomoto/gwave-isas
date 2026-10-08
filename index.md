@@ -55,35 +55,5 @@
   text=text
 %}
 
-{% include section.html %}
 
-{% capture col1 %}
-## {% include icon.html icon="fa-solid fa-newspaper" %}Latest NEWS
-
-  {% assign sorted_news = site.posts | sort: "last_modified_at" | reverse %}
-    {% for post in sorted_news limit:3 %}
-    
-  <div class="news-card">
-    <div class="news-header">
-        <span class="news-title">{{ post.title }}</span>
-        <span class="news-date">{% include icon.html icon="fa-regular fa-calendar" %} {{ post.last_modified_at | date: "%Y-%B-%d" }} </span>
-    </div>
-    <div class="news-description">
-        {{ post.description }} 
-    </div>
-  </div>
-
-    {% endfor %}  
-  
-{%
-  include button.html
-  link="news"
-  text="Read all news"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  align=left
-
-%}
-
-{% endcapture %}
 
