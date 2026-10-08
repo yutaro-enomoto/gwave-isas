@@ -36,9 +36,21 @@
       </span>
     {% endif %}
 
+    {% if member.name_j %}
+      <span class="portrait-name">
+        {{ member.name_j }}
+      </span>
+    {% endif %}
+
     {% if member.description or type %}
       <span class="portrait-description">
         {{ member.description | default: type.description }}
+      </span>
+    {% endif %}
+
+    {% if member.description_j %}
+      <span class="portrait-description">
+        {{ member.description_j }}
       </span>
     {% endif %}
 
