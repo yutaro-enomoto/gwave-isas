@@ -1,7 +1,9 @@
 ---
 name: Kiwamu Izumi
+name_j: 和泉 究
 image: images/photo.jpg
-description: Associate Professor 准教授
+description: Associate Professor
+description_j: 准教授
 role: faculty-staff
 aliases: 
   - K. Izumi
