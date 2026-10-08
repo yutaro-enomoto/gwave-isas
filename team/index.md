@@ -19,7 +19,7 @@ nav:
 
 ## Alumni -- 旧メンバー
 
-{% include list.html data="members" component="portrait" filter="group == 'alum'" %}
+{% include list.html data="members" component="portrait" filter="group == 'alum'" style="small" %}
 
 {% include section.html background="images/background.jpg" dark=true %}
 
