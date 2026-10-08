@@ -1,5 +1,5 @@
 ---
-name: Yutaro Enomoto 榎本 雄太郎
+name: Yutaro Enomoto<br>榎本 雄太郎
 image: images/photo.jpg
 role: faculty-staff
 description: Assistant Professor 助教
