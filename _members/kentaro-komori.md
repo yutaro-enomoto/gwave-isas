@@ -3,7 +3,7 @@ name: Kentaro Komori
 name_j: 小森 健太郎
 image: images/photo.jpg
 role: postdoc
-decription: Aerospace Project Research Associate
+description: Aerospace Project Research Associate
 group: alum
 ---
 
