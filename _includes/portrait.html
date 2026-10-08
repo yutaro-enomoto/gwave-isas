@@ -54,6 +54,18 @@
       </span>
     {% endif %}
 
+    {% if member.move %}
+      <span class="portrait-description">
+        {{ member.move }}
+      </span>
+    {% endif %}
+
+    {% if member.move_j %}
+      <span class="portrait-description">
+        {{ member.move_j }}
+      </span>
+    {% endif %}
+
     {% if member.affiliation %}
       <span class="portrait-affiliation">
         {{ member.affiliation }}
