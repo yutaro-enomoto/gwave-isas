@@ -16,6 +16,7 @@ nav:
 {% include list.html data="members" component="portrait" filter="role == 'phd' and group != 'alum'" %}
 {% include list.html data="members" component="portrait" filter="role == 'master' and group != 'alum'" %}
 {% include list.html data="members" component="portrait" filter="role == 'undergrad' and group != 'alum'" %}
+{% include list.html data="members" component="portrait" filter="role == 'engineer' and group != 'alum'" %}
 
 ## Alumni -- 旧メンバー
 
