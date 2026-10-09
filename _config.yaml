@@ -2,8 +2,8 @@
 title: ISAS GWave Group
 subtitle: 宇宙研重力波グループ
 description: Welcome to ISAS Gravitational-Wave Group!
-header: images/background.jpg
-footer: images/background.jpg
+header: images/background_isas.jpg
+footer: images/background_isas.jpg
 header-dark: true
 footer-dark: true
 proofer: false
