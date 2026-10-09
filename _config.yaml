@@ -5,7 +5,7 @@ description: Welcome to ISAS Gravitational-Wave Group!
 header: images/background_isas.jpg
 footer: images/background_isas.jpg
 header-dark: true
-footer-dark: true
+footer-dark: false
 proofer: false
 
 # site social media and other links
