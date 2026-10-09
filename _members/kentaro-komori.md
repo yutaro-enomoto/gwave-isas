@@ -7,5 +7,5 @@ description: Aerospace Project Research Associate
 group: alum
 ---
 
-Promoted to an assistant professor in Ando Lab. (2022)  
+Promoted to an Assistant Professor in Ando Lab. (2022)  
 東大安東研 助教へ転出 (2022)
