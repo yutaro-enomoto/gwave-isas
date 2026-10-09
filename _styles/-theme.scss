@@ -44,11 +44,11 @@
   --bold: 600;
 
   // text line spacing
-  --spacing: 2;
-  --compact: 1.5;
+  --spacing: 1.5;
+  --compact: 1;
 
   // effects
-  --rounded: 3px;
+  --rounded: 5px;
   --shadow: 0 0 10px 0 var(--overlay);
   --transition: 0.2s ease;
 }
