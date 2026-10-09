@@ -52,6 +52,11 @@ home-page:
   text: Home Page
   tooltip: Home page
 
+researchmap:
+  icon: fa-solid fa-house-user
+  text: Researchmap
+  tooltip: Researchmap
+
 email:
   icon: fa-solid fa-envelope
   text: Email
