@@ -23,7 +23,7 @@ undergrad:
   description: Undergraduate Student
 
 engineer:
-  icon: fa-solid fa-code
+  icon: fa-solid fa-microchip
   description: Engineer
 
 mascot:
