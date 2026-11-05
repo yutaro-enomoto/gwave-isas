@@ -1,1 +1,1 @@
-Sitemap: http://space-time.isas.jaxa.jp/sitemap.xml
+Sitemap: https://space-time.isas.jaxa.jp/sitemap.xml
