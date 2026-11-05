@@ -3,7 +3,7 @@
 
 
 
-## Welcome to ISAS GWave Group! --- 宇宙研重力波グループへようこそ
+## Welcome to Space-Time Measurement Laboratory in ISAS! --- 宇宙研時空計測研究室へようこそ
 重力の謎に、光・量子・熱の物理で挑みます。
 
 {% include section.html %}
